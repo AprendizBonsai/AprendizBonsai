@@ -1,4 +1,4 @@
-👋 Hola. Soy @AprendizBonsai
+👋 Hola. Soy @AprendizBonsai.
 
 :evergreen_tree: Me interesan los bonsais. :deciduous_tree:
 
