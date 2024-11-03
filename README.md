@@ -4,7 +4,7 @@
 
 👩‍💻 El blog donde comparto mi diario como aprendiz de bonsai es <a href="https://aprendiendobonsai.com/" target="_blank" rel="noopener">aprendiendobonsai.com</a>.
 
-🖨 Todos mis contenidos son Copyleft tanto aquí como en mi blog, así que todos los derechos están al revés. Puedes reutilizar lo que gustes pero, por favor, preserva los derechos Copyleft en los trabajos que derives de estos contenidos.
+🖨 Todos mis contenidos son 🄯Copyleft tanto aquí como en mi blog, así que todos los derechos están al revés. Puedes reutilizar lo que gustes pero, por favor, preserva los derechos Copyleft en los trabajos que derives de estos contenidos.
 
 📫 Si quieres ponerte en contacto conmigo, puedes dejar un mensaje aquí.
 
